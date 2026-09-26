@@ -89,8 +89,8 @@ Read it in this order:
 # Getting Started
 
 ``` bash
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_NAME>
+git clone https://github.com/weexdayend/demo-curtain-screen-menu.git
+cd demo-curtain-screen-menu
 npm install
 npm run dev
 ```
